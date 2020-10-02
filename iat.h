@@ -20,7 +20,7 @@ int arr_dvd(int* arr, unsigned int arr_len, int divisor);
 
 // Implemented by Francis.  
 // Set each element of the array equal to the number "set_to".  
-int arr_set(int* arr, unsigned int arr_len, int set_to); 
+int arr_set(int* arr, unsigned int arr_len, int set_to);
 
 // Implemented by Akito.  
 // Multiply each element of the array by -1.  
